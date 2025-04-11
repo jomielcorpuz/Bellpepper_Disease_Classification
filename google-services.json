@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "694990538433",
+    "firebase_url": "https://bell-pepper-43a1d-default-rtdb.firebaseio.com",
+    "project_id": "bell-pepper-43a1d",
+    "storage_bucket": "bell-pepper-43a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694990538433:android:bc02687f11e669a3d5f640",
+        "android_client_info": {
+          "package_name": "com.example.bellpepper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJeUuFJf-HAnPtDwwWpfyAr1nA1IAI8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694990538433:android:4f99d96dc7a164b3d5f640",
+        "android_client_info": {
+          "package_name": "com.example.bellpepper_classify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJeUuFJf-HAnPtDwwWpfyAr1nA1IAI8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
